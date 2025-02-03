@@ -1,6 +1,5 @@
 # Build/Dependencies
 node_modules
-dist
 .awcache
 .cache
 /config/project.json
